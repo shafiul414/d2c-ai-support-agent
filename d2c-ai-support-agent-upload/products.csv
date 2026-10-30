@@ -1,0 +1,6 @@
+product_id,name,category,price_bdt,description,in_stock
+PROD-001,Wireless Headphones,electronics,2500,Wireless audio with a comfortable design,True
+PROD-002,Smart Watch,wearables,3500,A smartwatch for everyday use,True
+PROD-003,USB-C Charger,accessories,800,A compact USB-C charging accessory,True
+PROD-004,Bluetooth Speaker,electronics,1800,A portable speaker for music at home or outdoors,True
+PROD-005,Laptop Stand,accessories,1200,An adjustable stand for a more comfortable desk setup,False

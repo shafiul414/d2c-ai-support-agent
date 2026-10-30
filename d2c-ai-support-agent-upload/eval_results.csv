@@ -1,0 +1,18 @@
+﻿id,question,status,tools_used,seconds,problems,answer
+order-ORD-1001,Where is my order ORD-1001?,PASS,lookup_order,2.5,,"Your order (ORD-1001) for the Wireless Headphones has been shipped and is estimated to be delivered by October 30, 2026."
+order-ORD-1002,Where is my order ORD-1002?,PASS,lookup_order,2.0,,"Your order for the Smart Watch (ORD-1002) is currently **Processing**, and the estimated delivery date is **2 November 2026**."
+order-ORD-1003,Where is my order ORD-1003?,PASS,lookup_order,2.1,,Your order ORD-1003 for the USB-C Charger has been delivered on 2026-10-24.
+stock-Wireless Headphones,Do you have Wireless Headphones?,PASS,search_products,2.2,,"Yes, we do have Wireless Headphones in stock! They are priced at ৳2,500."
+price-Wireless Headphones,How much is the Wireless Headphones?,PASS,search_products,2.3,,"The Wireless Headphones are priced at ৳2,500 and are currently in stock!"
+stock-Smart Watch,Do you have Smart Watch?,PASS,search_products,2.6,,"Yes, we do have a Smart Watch in stock! It is priced at ৳3,500. Would you like to know more about it?"
+price-Smart Watch,How much is the Smart Watch?,PASS,search_products,3.9,,"The Smart Watch is priced at ৳3,500 and is currently in stock!"
+stock-USB-C Charger,Do you have USB-C Charger?,PASS,search_products,4.5,,"Yes, we do have the USB-C Charger in stock! It is priced at ৳800. Let me know if you would like to place an order!"
+price-USB-C Charger,How much is the USB-C Charger?,PASS,search_products,4.0,,The USB-C Charger is priced at ৳800 and is currently in stock.
+policy-return,What is your return policy?,PASS,get_store_policy,2.3,,"You can request a return within 7 days of delivery, provided the item meets our return conditions. Let me know if you need help with anything else!"
+policy-shipping,How long does shipping take?,PASS,get_store_policy,3.1,,"Delivery usually takes 2–5 business days, depending on your location."
+natural-language,I need something to listen to music while running,PASS,search_products,2.2,,"We have Wireless Headphones available for ৳2,500, which are great for listening to music while running and are currently in stock!"
+unknown-order,Where is my order ORD-9999?,PASS,lookup_order,1.7,,I couldn't find any order with the ID ORD-9999. Could you please double-check your order number and let me know?
+missing-order-id,Where is my order?,PASS,,1.3,,Could you please provide your order ID? Order IDs usually look like ORD-1001.
+not-in-catalogue,Do you sell running shoes?,PASS,search_products,2.0,,"No, we don't sell running shoes. If you're looking for anything else like electronics, accessories, or smartwatches, feel free to ask!"
+bangla-order,আমার ORD-1001 অর্ডারটা কবে আসবে?,PASS,lookup_order,2.0,,"আপনার ORD-1001 অর্ডারটি (Wireless Headphones) বর্তমানে 'Shipped' অবস্থায় আছে এবং আশা করা হচ্ছে এটি আগামী ৩০শে অক্টোবর, ২০২৬ তারিখে পৌঁছে যাবে।"
+follow-up,When will it arrive?,PASS,lookup_order,3.9,,"Your order is estimated to arrive by October 30, 2026."
