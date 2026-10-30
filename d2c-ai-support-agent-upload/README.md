@@ -72,6 +72,8 @@ python -m pip install -r requirements.txt
 
 1. Create a free API key at [Google AI Studio](https://aistudio.google.com/app/apikey).
 2. Copy `.env.example` to a new file named `.env` and put your key in it:
+<img width="1920" height="1080" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/ce3767e3-d990-49a2-bc8c-fb763265aecb" />
+<img width="1920" height="1080" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/e46396ff-1d85-4950-bed5-5e727f18b842" />
 
 ```
 GEMINI_API_KEY=your_key_here
@@ -138,7 +140,9 @@ Model names change over time. If a model name is rejected, check the model list 
 
 ## Screenshot
 
-![D2C AI Support Agent](docs/screenshot.png)
+<img width="1920" height="1080" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/5d84965a-762c-41d4-b426-274e9e864fdc" />
+<img width="1920" height="1080" alt="Screenshot (332)" src="https://github.com/user-attachments/assets/09dde70b-18fb-4fbb-9251-29ca3d5445c9" />
+
 
 ## Limitations and ideas for improvement
 
