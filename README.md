@@ -137,6 +137,11 @@ Model names change over time. If a model name is rejected, check the model list 
 - আমার ORD-1002 অর্ডারটা কবে আসবে?
 
 ## Screenshot
+<img width="1920" height="1080" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/5f83a4d9-7b5f-478a-98a1-943c88623e04" />
+<img width="1920" height="1080" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/35a3fb6a-389e-48d5-8243-794aca7fed46" />
+<img width="1920" height="1080" alt="Screenshot (332)" src="https://github.com/user-attachments/assets/653b20ef-3add-43bf-97aa-f72d4b51651e" />
+<img width="1920" height="1080" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/1bce1dfd-8444-43a6-a072-4bac9b6af511" />
+
 
      ![D2C AI Support Agent](images/screenshot.png)
 ## Limitations and ideas for improvement
