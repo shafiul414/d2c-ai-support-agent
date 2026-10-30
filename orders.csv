@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,product_name,status,order_date,estimated_delivery,price_bdt,shipping_city
+ORD-1001,CUS-001,PROD-001,Wireless Headphones,Shipped,2026-10-25,2026-10-30,2500,Dhaka
+ORD-1002,CUS-002,PROD-002,Smart Watch,Processing,2026-10-27,2026-11-02,3500,Rajshahi
+ORD-1003,CUS-003,PROD-003,USB-C Charger,Delivered,2026-10-20,2026-10-24,800,Chattogram
+ORD-1004,CUS-001,PROD-004,Bluetooth Speaker,Processing,2026-10-28,2026-11-04,1800,Dhaka
+ORD-1005,CUS-004,PROD-001,Wireless Headphones,Cancelled,2026-10-22,,2500,Sylhet
