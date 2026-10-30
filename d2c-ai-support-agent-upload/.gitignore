@@ -1,0 +1,18 @@
+# Secrets - never commit these
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit local settings and secrets
+.streamlit/secrets.toml
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
