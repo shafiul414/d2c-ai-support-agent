@@ -138,8 +138,7 @@ Model names change over time. If a model name is rejected, check the model list 
 
 ## Screenshot
 
-![D2C AI Support Agent](docs/screenshot.png)
-
+     ![D2C AI Support Agent](images/screenshot.png)
 ## Limitations and ideas for improvement
 
 - Uses small sample CSV files; a real store would need a database or store API (for example Shopify).
